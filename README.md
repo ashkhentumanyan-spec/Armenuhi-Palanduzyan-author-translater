@@ -1,76 +1,51 @@
-**Prompt: Create a Luxury Literary Website for an Armenian Translator of Jane Austen**
+# 🌿 Բարի գալուստ / Welcome! 📚
 
-Design a sophisticated, elegant, and timeless website for a professional literary translator specializing in translating Jane Austen’s novels from English into Armenian.
+> *«Լավ գիրքը կարդալիս ժամանակը կանգ է առնում, իսկ թարգմանելիս՝ վերածնվում նոր լեզվով»։*
 
-### Brand & Concept
-The website should communicate literary excellence, historical elegance, cultural heritage, and the beauty of the Armenian language. The translator’s mission is to introduce Armenian readers to Jane Austen’s wit, romance, social commentary, and timeless storytelling.
+---
 
-### Visual Design
-- **Style:** Regency-era elegance combined with modern editorial web design.
-- **Color palette:** Warm ivory, antique cream, dusty rose, muted sage green, and subtle champagne gold.
-- **Typography:** Elegant serif fonts inspired by classic English literature, paired with a clean, readable font for Armenian text.
-- **Atmosphere:** Romantic, intellectual, refined, and authentic.
-- Use delicate floral illustrations, vintage paper textures, antique book details, and subtle decorative borders.
-- Keep the layout spacious, elegant, responsive, and easy to navigate.
+### 🖋️ Իմ մասին / About Me
 
-### Homepage Structure
+Բարև՛, ես գրող, թարգմանիչ, լրագրող և ուսուցչուհի եմ։  
+Իմ մասնագիտական և ստեղծագործական կյանքը նվիրված է խոսքի, լեզվի և գրականության արվեստին։ 
 
-**1. Header**
-- Translator’s name or literary brand logo.
-- Navigation: Home, About the Translator, Jane Austen, Translations, Articles, Contact.
-- Language selector: Հայերեն | English.
+* 📖 **Թարգմանություն.** Իմ գլխավոր նախագծերից է **Ջեյն Օսթինի (Jane Austen)** վեպերի թարգմանությունն անգլերենից հայերեն՝ պահպանելով դասական վիկտորյանական շունչն ու լեզվի նրբերանգները։
+* 📰 **Լրագրություն.** Բազմաթիվ հոդվածների և վերլուծությունների հեղինակ եմ մշակութային, կրթական և գրական թեմաներով։
+* 👩‍🏫 **Կրթություն.** Որպես ուսուցչուհի՝ ոգեշնչում եմ աշակերտներին սիրել լեզուն, ընթերցանությունը և ստեղծագործական մտածողությունը։
 
-**2. Hero Section**
-Feature a beautiful literary composition inspired by Regency England: antique books, handwritten manuscripts, roses, a quill, and a soft ivory background.
+---
 
-Main headline:
-“Jane Austen-ի աշխարհը՝ հայերեն”
+### 🌺 Գրական և թարգմանչական նախագծեր / Translation Projects
 
-Subtitle:
-«Անգլիական դասական գրականության նրբությունը, հումորն ու զգացմունքայնությունը՝ հայերեն թարգմանությամբ»։
+#### 📜 Jane Austen in Armenian / Ջեյն Օսթինը հայերեն
+* 📖 **Pride and Prejudice** (*«Հպարտություն և նախապաշարմունք»*) — [Թարգմանական նշումներ / Գլուխներ]
+* 📖 **Sense and Sensibility** (*«Զգացմունք և ողջախոհություն»*) — [Ընթացքի մեջ / In Progress]
+* 📖 **Emma** (*«Էմմա»*) — [Նախապատրաստական աշխատանքներ]
 
-CTA buttons:
-- «Ծանոթանալ թարգմանություններին»
-- «Թարգմանչի մասին»
+---
 
-**3. About the Translator**
-Introduce the translator as a dedicated literary professional who seeks to preserve Jane Austen’s distinctive voice, irony, cultural nuances, emotional depth, and elegant prose while making her works natural and engaging for Armenian readers.
+### 📝 📰 Վերջին հոդվածները և հրապարակումները / Articles & Publications
 
-Include a portrait placeholder, a short biography, translation philosophy, and professional credentials.
+* ✍️ *[Հոդվածի վերնագիր 1]* — *«Մշակութային պարբերական», 2026*
+* ✍️ *[Հոդվածի վերնագիր 2]* — *«Գրական թերթ», 2025*
+* ✍️ *[Հոդվածի վերնագիր 3]* — *«Կրթությունը և լեզուն», 2025*
 
-**4. Jane Austen’s Literary World**
-Create an elegant collection of featured novels:
-- Pride and Prejudice — «Հպարտություն և նախապաշարմունք»
-- Sense and Sensibility — «Զգացմունք և բանականություն»
-- Emma — «Էմմա»
-- Persuasion — «Համոզում»
-- Mansfield Park — «Մենսֆիլդ Փարք»
-- Northanger Abbey — «Նորթենջերի աբբայություն»
+---
 
-Each book card should include a cover placeholder, a short introduction, translation status, and a button to explore the work. Do not falsely imply that every novel has already been translated or published.
+### 🛠️ Հմտություններ և Գործիքներ / Skills & Expertise
 
-**5. Translation Philosophy**
-Explain how the translator balances fidelity to Austen’s original English, natural Armenian expression, period-specific vocabulary, subtle irony, dialogue, and cultural context.
+- **Լեզուներ.** Հայերեն (մայրենի), Անգլերեն (գրական թարգմանություն, C2)
+- **Ոլորտներ.** Գրական թարգմանություն, Լրագրություն, Խմբագրում, Գրականագիտություն, Մանկավարժություն
+- **Գործիքներ.** Markdown, Git/GitHub (նախագծերի և արխիվների կառավարում), CAT Tools
 
-Feature a short, legally permissible sample of original text alongside its Armenian translation, with clear attribution.
+---
 
-**6. Selected Translation**
-Create a prominent section showcasing a selected passage, editorial notes, and explanations of challenging literary expressions. Use a refined two-column English–Armenian layout.
+### 📫 Կապ իմ հետ / Connect with Me
 
-**7. Literary Journal**
-Include articles about Jane Austen’s life, Regency society, character development, literary themes, and the challenges of translating classic English prose into Armenian.
+- 📧 **Email:** `your.email@example.com`
+- 🌐 **Website / Portfolio:** `[ձեր կայքի հղումը]`
+- 📝 **Medium / Blog:** `[ձեր բլոգի հղումը]`
+- 💼 **LinkedIn:** `[ձեր էջի հղումը]`
 
-**8. Contact Section**
-Provide a professional contact form for publishers, editors, literary organizations, and readers interested in collaborations.
-
-### Technical Requirements
-- Responsive design for mobile, tablet, and desktop.
-- Fast loading, accessible navigation, and excellent readability.
-- SEO-friendly structure.
-- Proper Armenian Unicode support.
-- Functional navigation, language selector, book links, and contact form.
-- Use reusable components and clean HTML, CSS, and JavaScript if building a standalone website.
-- If the site is built with Shopify, adapt the design to Shopify sections and Liquid templates.
-
-### Final Goal
-Create a website that feels like opening a beautifully preserved nineteenth-century English novel translated with care into Armenian: elegant, trustworthy, literary, and emotionally engaging. The result should look like a professional literary translator’s portfolio, not a generic bookstore or a standard corporate website
+---
+*« There is no charm equal to softness of heart. » — Jane Austen*
