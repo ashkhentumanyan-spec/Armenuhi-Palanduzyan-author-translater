@@ -42,10 +42,8 @@
 
 ### 📫 Կապ իմ հետ / Connect with Me
 
-- 📧 **Email:** `armenuhi.palanduzyan@gmail.com`
+- 📧 **Email:** ` <armpalanduzyan@gmail.com>
 - 🌐 **Website https://www.facebook.com/share/1EeYkhy8Kf/
 - 📝 **Medium / Blog:** `[ձեր բլոգի հղումը]`
-- 💼 **LinkedIn:** `[ձեր էջի հղումը]`
-
 ---
 *« There is no charm equal to softness of heart. » — Jane Austen*
