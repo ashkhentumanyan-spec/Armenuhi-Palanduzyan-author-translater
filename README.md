@@ -18,10 +18,10 @@
 ### 🌺 Գրական և թարգմանչական նախագծեր / Translation Projects
 
 #### 📜 Jane Austen in Armenian / Ջեյն Օսթինը հայերեն
-* 📖 **Pride and Prejudice** (*«Հպարտություն և նախապաշարմունք»*) — [Թարգմանական նշումներ / Գլուխներ]
-* 📖 **Sense and Sensibility** (*«Զգացմունք և ողջախոհություն»*) — [Ընթացքի մեջ / In Progress]
-* 📖 **Emma** (*«Էմմա»*) — [Նախապատրաստական աշխատանքներ]
-
+* 📖 **Pride and Prejudice** (*«Հպարտություն և նախապաշարմունք»*) 
+* 📖 **Sense and Sensibility** (*«Զգացմունք և ողջախոհություն»*) 
+* 📖 **Emma** (*«Էմմա»*) — 
+* 📖 **Persuasion** (*«Համոզմունք»*) 
 ---
 
 ### 📝 📰 Վերջին հոդվածները և հրապարակումները / Articles & Publications
@@ -42,8 +42,8 @@
 
 ### 📫 Կապ իմ հետ / Connect with Me
 
-- 📧 **Email:** `your.email@example.com`
-- 🌐 **Website / Portfolio:** `[ձեր կայքի հղումը]`
+- 📧 **Email:** `armenuhi.palanduzyan@gmail.com`
+- 🌐 **Website https://www.facebook.com/share/1EeYkhy8Kf/
 - 📝 **Medium / Blog:** `[ձեր բլոգի հղումը]`
 - 💼 **LinkedIn:** `[ձեր էջի հղումը]`
 
